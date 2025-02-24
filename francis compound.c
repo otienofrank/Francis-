@@ -1,6 +1,6 @@
 /*
-Student Name: Margaret Shikanda Shisia
-Registration No:D33-2458-2023
+Student Name: Francis Otieno
+Registration No:D33-2473-2023
 Unit Code: BMS201
 */
 // Program to find compound interest 
