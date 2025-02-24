@@ -1,6 +1,6 @@
         /*
-author:Gideon mugambi
-reg no.d33-8563-2021
+author:Francis Otieno
+reg no.D33-2473-2023
 Program:to find simple interest 
 date:20/2/2025
 */
