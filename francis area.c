@@ -1,6 +1,6 @@
 \/*
-author:kigacha Nancy Gakii
-reg no:d33-2424-2023
+author:Francis Otieno
+reg no:D33-2473-2023
 Program:to find area of rectangle 
 date:20/2/2025
 */
